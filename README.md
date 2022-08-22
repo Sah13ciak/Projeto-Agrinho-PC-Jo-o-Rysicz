@@ -1,1 +1,1 @@
-# Projeto-Agrinho-PC-Jo-o-Rysicz
+# Projeto-Agrinho-PC-Joao Rysicz
