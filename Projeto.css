@@ -1,27 +1,59 @@
 body {
-	background: #E0FFFF;}
+	background: #FFFFFF;
+}
 
-#capa {
-	height: 5%;
-	width: 98%;
-	padding: 10px;
-	margin-left: 1px;
-	border: solid #000000;
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+.inicial {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+	
+nav h1 {
+	font-size: 70px;
+	font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+nav h1 {
+	display: inline;
+	margin: 0 0 0 15px;
 }
 
 h1 {
-		font-size: 70px;
-		text-align: center;
+	text-transform: uppercase;
+	color: #000000;
+	}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
 }
 
 h2 {
 		font-size: 35px;
 		text-align: center;
+		padding: 30px;
 }
 
 p { 
-	text-align: left;
+	text-align: justify;
 	font-size: 25px;
+	padding: 10px;
 }
 
 #cuidados { 
@@ -29,14 +61,35 @@ p {
 	text-align: center; 
 	color: #FF1493;
 	background: #FFEFD5;
-	border: 10px double; #000000; 
-	padding: 10px;
+	border: 10px double; color: #000000; 
+	padding: 15px;
+	margin: 10px;
 }
 
 .itens { 
+	text-align: center;
 	font-style: italic;
+	font-size: 22px;
+	margin: 15px;
 }
 
-td {
-	justify-items: center;
+footer {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+#Rodapé {
+	height: 80px;
+	width: 80px;
+}
+
+ #Since {
+ 	font-size: 15px;
+	text-align: center;
+	padding: 10px;
+ }
+
+#informação {
+	font-size: 12px;
+	text-align: center;
 }
