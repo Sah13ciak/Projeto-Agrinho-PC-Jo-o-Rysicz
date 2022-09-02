@@ -36,3 +36,7 @@ p {
 .itens { 
 	font-style: italic;
 }
+
+td {
+	justify-items: center;
+}
